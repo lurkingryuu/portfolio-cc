@@ -9,7 +9,6 @@
     "@testing-library/react": "^13.2.0",
     "@testing-library/user-event": "^13.5.0",
     "aos": "^2.3.4",
-    "gh-pages": "^4.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-icons": "^4.3.1",
@@ -21,7 +20,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build -r https://github.com/lurkingryuu/portfolio-cc"
+    "deploy": "gh-pages -d build -r git@github.com:lurkingryuu/portfolio-cc"
   },
   "eslintConfig": {
     "extends": [
@@ -44,6 +43,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
-    "tailwindcss": "^3.0.24"
+    "tailwindcss": "^3.0.24",
+    "gh-pages": "^4.0.0"
   }
 }
