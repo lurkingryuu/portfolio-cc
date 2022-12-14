@@ -16,7 +16,7 @@ const Home = () => {
                     </p>
                     <p className="text-base mx-auto mt-4 sm:text-xl md:text-2xl text-center max-w-sm sm:max-w-lg">
                         I am Yelisetty Karthikeya
-                        I am a first-year Undergraduate of the department of Computer Science and Engineering, Dual degree course.
+                        I am a Second-year Undergraduate Student of the department of Computer Science and Engineering, Dual degree course.
                     </p>
                 </div>
             </div>
